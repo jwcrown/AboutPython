@@ -102,8 +102,12 @@
 
 }
 
+.italic{
+    font-style: italic;
+}
+
 li span{
-    color: #d9bd3c
+    color: #d9bd3c;
 }
 
 #list li{
